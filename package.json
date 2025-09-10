@@ -71,12 +71,12 @@
     "concurrently": "^6.2.1",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.0",
-    "electron": "^12.2.1",
+    "electron": "^35.7.5",
     "enquirer": "^2.3.6",
     "eslint": "^8.8.0",
     "eslint-plugin-notice": "^0.9.10",
     "eslint-plugin-react-hooks": "^4.3.0",
-    "formidable": "^2.0.1",
+    "formidable": "^2.1.5",
     "license-checker": "^25.0.1",
     "mime": "^3.0.0",
     "ncp": "^2.0.0",
@@ -87,9 +87,9 @@
     "rimraf": "^3.0.2",
     "socksv5": "0.0.6",
     "typescript": "^4.5.5",
-    "vite": "^2.8.0",
-    "ws": "^8.5.0",
-    "xml2js": "^0.4.23",
+    "vite": "^5.4.20",
+    "ws": "^8.17.1",
+    "xml2js": "^0.5.0",
     "yaml": "^1.10.2"
   }
 }
