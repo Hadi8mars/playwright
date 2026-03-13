@@ -11,7 +11,7 @@
   "devDependencies": {
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
-    "svelte": "^3.44.0"
+    "svelte": "^5.53.11"
   },
   "@standaloneDevDependencies": {
     "@playwright/experimental-ct-svelte": "0.0.1",
