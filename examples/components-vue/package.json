@@ -12,8 +12,8 @@
   },
   "devDependencies": {
     "@playwright/experimental-ct-vue": "^0.0.2",
-    "@playwright/test": "^1.21.0-alpha-mar-12-2022",
-    "@vitejs/plugin-vue": "^2.2.2",
-    "vite": "^2.8.4"
+    "@playwright/test": "^1.58.2",
+    "@vitejs/plugin-vue": "^6.0.5",
+    "vite": "^8.0.1"
   }
 }
